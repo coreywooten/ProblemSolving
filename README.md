@@ -1,7 +1,8 @@
 # ProblemSolving
-# Set of problem-solving functions written in C++
-# Corey Wooten
-# October 07, 2018
+Set of problem-solving functions written in C++
+
+Corey Wooten
+October 07, 2018
 
 
 01_fibonacci // Writes a recursive function that returns the nth Fibonacci number
