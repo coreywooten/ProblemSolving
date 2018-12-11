@@ -9,15 +9,12 @@
 
 using namespace std;
 
-
-
-int main()
-{
+int main() {
     srand(time(0));
-    cout<<"Enter number of elements: ";
+    cout<<"Enter number of elements:\n";
     int n;
     cin>>n;
-    int list[n+2];
+    int list[n +2];
     for(int i=1;i<=n;i++)
     {
         list[i]=rand();
